@@ -1,0 +1,22 @@
+gvbFormPos Control - Version 01.00.00
+-------------------------------------
+
+Welcome to the initial release of the gvbFormPos Control - Version 
+01.00.00 designed to handle the positioning of any SDI or MDI forms with
+one line of code.
+
+Just a quick note to get you started:-
+
+ Before loading any of the projects into the IDE, the OCX must be 
+ extracted and registered. There is a zip file in the 
+ '.\gvbFormPos\Runtime' directory. Unzip the files into the directory and
+ register the gvbFormPos.Ocx file ("$System$\regsvr32 
+ $Install_Dir$\gvbFormPos\Runtime\gvbFormPos.Ocx" - Directory must be 8.3
+ format [Where $System$ = Windows System Directory & $Install_Dir$ is the
+ host drive and directory for the cTreeview directory (e.g. 
+ c:\Windows\System\regsvr32 c:\MyProj~1\gvbFormPos\Runtime\gvbFormPos.Ocx)].
+
+Enjoy!
+
+Graeme (a.k.a. Slider)
+E-mail: graemeg33@hotmail.com
